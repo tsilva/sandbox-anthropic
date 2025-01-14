@@ -169,3 +169,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Node.js
+node_modules/
+dist/
+.env
+
+# Conda
+conda-env/
+.conda/
+*.conda
+environment.yml.lock
