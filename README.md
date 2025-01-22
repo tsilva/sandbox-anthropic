@@ -9,7 +9,7 @@ A sandbox project for experimenting with the Anthropic API.
 ```
 ANTHROPIC_API_KEY=your-api-key
 ```
-
+a
 3. Create and activate the conda environment:
 ```bash
 conda env create -f environment.yml
