@@ -1,0 +1,8 @@
+- https://docs.anthropic.com/en/docs/build-with-claude/tool-use
+- https://docs.anthropic.com/en/api/messages-streaming
+- MCP
+- https://docs.anthropic.com/en/docs/build-with-claude/computer-use
+- https://docs.anthropic.com/en/api/claude-on-amazon-bedrock
+- https://docs.anthropic.com/en/api/claude-on-vertex-ai
+- https://github.com/anthropics/anthropic-cookbook
+- https://docs.anthropic.com/en/docs/build-with-claude/mcp
