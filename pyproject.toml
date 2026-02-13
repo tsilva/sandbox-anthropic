@@ -1,0 +1,10 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "sandbox-anthropic"
+version = "0.1.0"
+description = "**🧠 Sandbox for experimenting with the Anthropic API**"
+requires-python = ">=3.10"
+dependencies = []

@@ -1,7 +1,7 @@
 <div align="center">
   <img src="logo.png" alt="sandbox-anthropic" width="512"/>
 
-  **🧠 Sandbox for experimenting with the Anthropic API**
+  **🧠 Sandbox for experimenting with the Anthropic API 🧪**
 
 </div>
 
