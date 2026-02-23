@@ -8,3 +8,9 @@ version = "0.1.0"
 description = "**🧠 Sandbox for experimenting with the Anthropic API**"
 requires-python = ">=3.10"
 dependencies = []
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
